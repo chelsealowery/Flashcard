@@ -1,8 +1,6 @@
-# Flashcard
-Group11
+
 # Group-11
- Flashcard app
-# Study Flashcard App
+Study Flashcard App
 
 ## Overview
 **Comment:**  
